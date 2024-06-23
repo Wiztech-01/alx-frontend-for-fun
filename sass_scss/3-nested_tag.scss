@@ -1,0 +1,12 @@
+/* Assign margin and padding to HTML elements using nested declarations */
+
+// No margin or padding in body tags
+body {
+    margin: 0px;
+    padding: 0px;
+
+    p {
+      margin: 10px;
+    }
+  }
+  
